@@ -1,0 +1,19 @@
+#page, #form{
+    width: 500px;
+    margin: 0 auto;
+}
+
+td{
+    font-family: Arial;
+    padding: 10px;
+    width: 50px;
+    height: 50px;
+    text-align: center;
+    border: 10px solid #F39C12;
+    background-color: #fff;
+}
+
+table{
+    display: block;
+    margin-bottom: 50px;
+}
